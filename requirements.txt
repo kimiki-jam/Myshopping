@@ -1,0 +1,2 @@
+# components.v2(커스텀 컴포넌트)와 st.fragment(run_every)를 쓰므로 로컬에서 검증한 버전 이상 필요
+streamlit>=1.58.0

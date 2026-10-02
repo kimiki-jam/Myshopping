@@ -1,0 +1,9 @@
+# 웹 버전(style.css)과 같은 초록 계열 테마
+[theme]
+primaryColor = "#2f7d5b"
+backgroundColor = "#f3f5f2"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1e2a24"
+
+[browser]
+gatherUsageStats = false
